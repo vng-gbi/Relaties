@@ -1,0 +1,1 @@
+Model Relaties. Diensttype, Organisatorische eenheid en Persoon zijn geen onderdeel van het model maar, zijn weergegeven tbv context. 
