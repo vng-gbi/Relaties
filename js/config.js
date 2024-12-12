@@ -37,7 +37,7 @@ let respecConfig = {
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://vng-gbi.github.io/Locatie",
+  github: "https://vng-gbi.github.io/Relaties",
 
   //  maxTocLevel: 2,
 
