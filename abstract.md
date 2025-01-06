@@ -1,1 +1,1 @@
-Model Relaties. Diensttype, Organisatorische eenheid en Persoon zijn geen onderdeel van het model maar, zijn weergegeven tbv context. 
+Dit submodel is onderdeel van de [ontologie Inkomen](https://vng-realisatie.github.io/Ontologie-Inkomen/).
